@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Black_Arrow_Down.svg/1024px-Black_Arrow_Down.svg.png" alt="logo" width="72" height="72">
+  <img src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_6887.png&f=1" alt="logo" width="72" height="72">
 </p>
 
 <h3 align="center">xDZ</h3>
