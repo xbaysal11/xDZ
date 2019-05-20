@@ -8,6 +8,7 @@
      VSCode full dark theme
 </p>
 
+![logo](https://i.postimg.cc/RZJ1cW7M/zdz.png)
 
 # Installation
 
